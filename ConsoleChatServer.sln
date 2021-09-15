@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleChatServer", "ConsoleChatServer\ConsoleChatServer.csproj", "{257A0D12-E540-47BA-852C-A449F6C1E92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257A0D12-E540-47BA-852C-A449F6C1E92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257A0D12-E540-47BA-852C-A449F6C1E92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257A0D12-E540-47BA-852C-A449F6C1E92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257A0D12-E540-47BA-852C-A449F6C1E92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A3BE17-933F-49B0-905C-6625CCFD5342}
+	EndGlobalSection
+EndGlobal

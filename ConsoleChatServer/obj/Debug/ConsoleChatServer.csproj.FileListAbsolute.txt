@@ -1,0 +1,13 @@
+A:\Projects\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe.config
+A:\Projects\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe
+A:\Projects\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.pdb
+A:\Projects\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.csprojResolveAssemblyReference.cache
+A:\Projects\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.csproj.CoreCompileInputs.cache
+A:\Projects\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.exe
+A:\Projects\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.pdb
+C:\Хранилище\Проекты\C#\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe.config
+C:\Хранилище\Проекты\C#\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.exe
+C:\Хранилище\Проекты\C#\ConsoleChatServer\ConsoleChatServer\bin\Debug\ConsoleChatServer.pdb
+C:\Хранилище\Проекты\C#\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.csproj.CoreCompileInputs.cache
+C:\Хранилище\Проекты\C#\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.exe
+C:\Хранилище\Проекты\C#\ConsoleChatServer\ConsoleChatServer\obj\Debug\ConsoleChatServer.pdb
